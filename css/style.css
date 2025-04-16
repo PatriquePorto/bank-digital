@@ -546,7 +546,7 @@
 
 .link-menu:hover {
   opacity: 0.5;
-  color: #58a6f3;
+  color: #0854b8;
 }
 
 .bg-cta {
@@ -1590,6 +1590,11 @@ footer {
     opacity: 1;
   }
 }
+
+.icon {
+  cursor: pointer;
+}
+
 #icon1-fig9 {
   position: absolute;
   top: 30%;
