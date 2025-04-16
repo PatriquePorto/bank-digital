@@ -136,13 +136,12 @@ textsClicks.forEach((item) => {
   item.style.opacity = '0';
 })
 
-var index = 0;
+let index = 0;
 
 const functionResetIcons = (element) => {
   /*=====================================*/
   /*=========== ÍCONES ==============*/
   /*=====================================*/
-  console.log('teste');
 
   // Zerar e tirar a classe ativa em todos
   arrayIcons.forEach((item) => {

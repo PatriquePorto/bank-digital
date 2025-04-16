@@ -3107,6 +3107,21 @@ nav {
   }
 }
 
+@media screen and (max-width: 700px) {
+  header .btn-small {
+    width: 50%;
+    font-size: 8px;
+  }
+
+  header .btn-account {
+    width: 125px;
+    font-size: 0.5rem;
+  
+  }
+}
+
+
+
 .btn-secondary {
   display: inline-block;
   color: #FBFFF5;
@@ -3603,7 +3618,7 @@ select{
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #849170;
+  background-color: #ffffff;
   width: 50%;
   height: 100%;
   animation: bar-loader 4s ease forwards;
@@ -3822,4 +3837,4 @@ select{
 }
 .list2 li:hover {
   padding-left: 30px;
-}/*# sourceMappingURL=style.css.map */
+}
