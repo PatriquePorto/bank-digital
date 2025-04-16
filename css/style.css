@@ -539,6 +539,16 @@
   }
 }
 
+.link-menu {
+  color: #FBFFF5;
+  transition: 0.5s ease all;
+}
+
+.link-menu:hover {
+  opacity: 0.5;
+  color: #58a6f3;
+}
+
 .bg-cta {
   position: absolute;
   top: 80%;
@@ -1501,7 +1511,7 @@ footer {
 }
 
 .button-plus, .button-minus {
-  background-color: #A9C96B;
+  background-color: #0e46c0;
   padding: 8px;
   min-width: 52px;
   min-height: 52px;
@@ -3200,6 +3210,7 @@ a {
   transition: 0.5s ease;
 }
 
+
 .btn-small {
   display: inline-block;
   padding: 8px 16px;
@@ -3293,9 +3304,10 @@ a {
 .btn-send {
   width: 52px;
   height: 52px;
-  background: linear-gradient(217.08deg, #A9C96B 2.12%, #515D3D 98.96%);
+  background: linear-gradient(217.08deg, #1f3acf 2.12%, #811c8a 98.96%);
   border: 0;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 input {

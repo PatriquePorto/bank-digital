@@ -23,8 +23,8 @@ buttonMinusMoney.addEventListener('click', () => {
   let result = MoneyInvestment * Math.pow(  (1 + taxa), TimeInvestment );
   console.log('resultado:' + result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'}));
 
-  let valorFinal = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
-  document.querySelector(".result-investment").innerText = valorFinal;
+  let finalValue = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
+  document.querySelector(".result-investment").innerText = finalValue;
 
 });
 
@@ -37,8 +37,8 @@ buttonPlusMoney.addEventListener('click', () => {
   let result = MoneyInvestment * Math.pow(  (1 + taxa), TimeInvestment );
   console.log('resultado:' + result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'}));
 
-  let valorFinal = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
-  document.querySelector(".result-investment").innerText = valorFinal;
+  let finalValue = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
+  document.querySelector(".result-investment").innerText = finalValue;
 });
 
 buttonMinusTime.addEventListener('click', () => {
@@ -56,9 +56,9 @@ buttonMinusTime.addEventListener('click', () => {
   let result = MoneyInvestment * Math.pow(  (1 + taxa), TimeInvestment );
   console.log('resultado:' + result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'}));
 
-  let valorFinal = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
+  let finalValue = result.toFixed(2).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
 
-  document.querySelector(".result-investment").innerText = valorFinal;
+  document.querySelector(".result-investment").innerText = finalValue;
 });
 
 buttonPlusTime.addEventListener('click', () => {

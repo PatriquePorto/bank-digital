@@ -75,7 +75,7 @@ const translations = {
     'nav-language': 'PT',
     
     // Hero section
-    'hero-tag': 'a new era',
+    'hero-tag': ' a new era ',
     'hero-title-1': 'The bank',
     'hero-title-2': 'to call',
     'hero-title-3': 'yours',
