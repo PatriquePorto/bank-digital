@@ -88,15 +88,6 @@ git clone https://github.com/your-username/pay-bank.git
 
 3. Launch the index.html file in a modern web browser
 
-Alternatively, you can use a local development server:
-```bash
-# Using Python
-python -m http.server
-
-# Using Node.js's http-server
-npx http-server
-```
-
 ## 📱 Browser Compatibility
 
 The application is optimized for modern browsers:
@@ -107,7 +98,7 @@ The application is optimized for modern browsers:
 
 ## 🖼️ Screenshots
 
-[Add screenshots here]
+ ![preview](preview.png)
 
 ## 👨‍💻 Development
 
@@ -129,4 +120,4 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 
-Developed with ❤️ by [Patrique P Porto](https://github.com/your-username)
+Developed with ❤️ by [Patrique P Porto](https://github.com/patriqueporto)
