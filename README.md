@@ -19,10 +19,10 @@ PayBank is a modern digital banking platform designed to provide users with a se
 
 ## 🛠️ Technologies
 <div align="center">
-    <div style="width: 500px; height: 150px; margin: 0 auto; display: flex; justify-content: center; align-items: center;">
-        <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+    <div>
+        <img style="width: 200px; height: 100px;" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+        <img style="width: 200px; height: 100px;" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+        <img style="width: 200px; height: 100px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
     </div>
 </div>
 
