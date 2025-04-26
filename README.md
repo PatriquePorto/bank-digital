@@ -88,7 +88,7 @@ The digital cards feature:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pay-bank.git
+git clone https://github.com/patriqueporto/pay-bank.git
 ```
 
 2. Open the project in your code editor

@@ -54,7 +54,7 @@ const translations = {
     // Footer
     'footer-newsletter': 'Seja o primeiro a receber notícias sobre nossos serviços bancários',
     'footer-email-placeholder': 'Digite aqui o seu e-mail',
-    'footer-connected': 'Fique conectado com qualquer pessoa e em qualquer lugar',
+    'footer-connected': 'Fique conectado com a gente em qualquer lugar!',
     'footer-rights': 'Todos os direitos reservados',
     'footer-contact': 'Contato',
     'footer-about': 'Sobre',
